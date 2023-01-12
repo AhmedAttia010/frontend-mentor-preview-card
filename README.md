@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-_VPVzDTlI_)
 - Live Site URL: [live site URL](https://ahmedattia010.github.io/frontend-mentor-preview-card/)
 
 ## My process
