@@ -26,8 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
+- #### Large screen
+
 ![Large screen](./large%20screen.png)
+
+- #### Medium screen
+
 ![Medium screen](./medium%20screen.png)
+
+- #### Small and mobile screen
+
 ![Small and mobile screen](./small%20and%20mobile%20screen.png)
 
 ### Links
@@ -55,5 +63,4 @@ Users should be able to:
 
 ## Author
 
-- github - [Ahmed Attia](https://github.com/AhmedAttia010)
 - Frontend Mentor - [@AhmedAttia010](https://www.frontendmentor.io/profile/AhmedAttia010)
