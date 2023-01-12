@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://ahmedattia010.github.io/frontend-mentor-preview-card/)
 
 ## My process
 
