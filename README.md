@@ -7,7 +7,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 > - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-_VPVzDTlI_)
 > - Live Site URL: [live site URL](https://ahmedattia010.github.io/frontend-mentor-preview-card/)
 
+
 ---
+
 
 ## Table of contents
 
@@ -57,8 +59,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [](https://stackoverflow.com/questions/19038240/media-query-styles-not-overriding-original-styles) - This helped me for fix media query not overriding original sryles.
-- [](https://www.markdownguide.org/basic-syntax) - This is an amazing article which helped me to learn how to deail with README files. I'd recommend it to anyone still learning.
+- [Media query styles not overriding original styles](https://stackoverflow.com/questions/19038240/media-query-styles-not-overriding-original-styles) - This helped me for fix media query not overriding original sryles.
+- [Markdown guide](https://www.markdownguide.org/basic-syntax) - This is an amazing article which helped me to learn how to deail with README files. I'd recommend it to anyone still learning.
 
 ## Author
 
