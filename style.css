@@ -39,7 +39,7 @@ body {
   transform: scale(1.02);
 }
 .card .info {
-  padding: 100px;
+  padding: 80px 100px;
   width: 52%;
   font-family: "Inter";
 }
@@ -97,7 +97,7 @@ body {
     font-size: 13px;
   }
   .card .info {
-    padding: 70px;
+    padding: 50px 70px;
   }
   .card .info p {
     margin-bottom: 3em;
