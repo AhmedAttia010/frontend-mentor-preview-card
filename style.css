@@ -69,7 +69,7 @@ body {
   font-size: 2.25rem;
   margin-bottom: 10px;
 }
-.stat .box h6 {
+.stat .box span {
   color: var(--stat-headings);
   text-transform: uppercase;
   letter-spacing: 0.1em;
